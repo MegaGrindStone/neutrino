@@ -3,7 +3,7 @@ package pushtx_test
 import (
 	"testing"
 
-	"github.com/btcsuite/btcd/wire"
+	"github.com/MegaGrindStone/btcd/wire"
 	"github.com/lightninglabs/neutrino/pushtx"
 )
 

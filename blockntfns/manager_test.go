@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/btcsuite/btcd/wire"
+	"github.com/MegaGrindStone/btcd/wire"
 	"github.com/lightninglabs/neutrino/blockntfns"
 )
 

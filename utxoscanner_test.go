@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/gcs"
+	"github.com/MegaGrindStone/btcd/chaincfg/chainhash"
+	"github.com/MegaGrindStone/btcd/wire"
+	"github.com/MegaGrindStone/btcutil"
+	"github.com/MegaGrindStone/btcutil/gcs"
 	"github.com/lightninglabs/neutrino/headerfs"
 )
 
@@ -618,7 +618,7 @@ var Block99999 = wire.MsgBlock{
 	},
 }
 
-// The following is taken from the btcsuite/btcutil project.
+// The following is taken from the MegaGrindStone/btcutil project.
 // Block100000 defines block 100,000 of the block chain.  It is used to test
 // Block operations.
 var Block100000 = wire.MsgBlock{

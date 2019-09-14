@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/btcsuite/btcd/wire"
+	"github.com/MegaGrindStone/btcd/wire"
 	"github.com/lightninglabs/neutrino/blockntfns"
 )
 

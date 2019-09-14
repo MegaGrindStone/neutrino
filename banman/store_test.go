@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/btcsuite/btcwallet/walletdb"
-	_ "github.com/btcsuite/btcwallet/walletdb/bdb"
+	"github.com/MegaGrindStone/btcwallet/walletdb"
+	_ "github.com/MegaGrindStone/btcwallet/walletdb/bdb"
 	"github.com/lightninglabs/neutrino/banman"
 )
 
