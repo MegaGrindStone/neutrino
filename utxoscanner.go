@@ -8,7 +8,7 @@ import (
 
 	"github.com/MegaGrindStone/btcd/chaincfg/chainhash"
 	"github.com/MegaGrindStone/btcutil"
-	"github.com/lightninglabs/neutrino/headerfs"
+	"github.com/MegaGrindStone/neutrino/headerfs"
 )
 
 // getUtxoResult is a simple pair type holding a spend report and error.

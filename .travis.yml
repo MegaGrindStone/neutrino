@@ -14,7 +14,7 @@ install:
   - mkdir -p $GOPATH/src/github.com/btcsuite/
   - "[ -d $GOPATH/src/github.com/MegaGrindStone/btcd ] || git clone https://github.com/MegaGrindStone/btcd.git $GOPATH/src/github.com/MegaGrindStone/btcd"
   - pushd $GOPATH/src/github.com/MegaGrindStone/btcd
-  - $GOPATH/src/github.com/lightninglabs/neutrino/btcd_checkout.sh
+  - $GOPATH/src/github.com/MegaGrindStone/neutrino/btcd_checkout.sh
   - go install . ./cmd/...
   - popd
 env:

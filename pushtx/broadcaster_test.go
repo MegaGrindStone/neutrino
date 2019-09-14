@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/MegaGrindStone/btcd/wire"
-	"github.com/lightninglabs/neutrino/blockntfns"
+	"github.com/MegaGrindStone/neutrino/blockntfns"
 )
 
 // createTx is a helper method to create random transactions that spend

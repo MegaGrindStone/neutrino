@@ -21,12 +21,12 @@ import (
 	"github.com/MegaGrindStone/btcd/wire"
 	"github.com/MegaGrindStone/btcutil"
 	"github.com/MegaGrindStone/btcwallet/walletdb"
-	"github.com/lightninglabs/neutrino/banman"
-	"github.com/lightninglabs/neutrino/blockntfns"
-	"github.com/lightninglabs/neutrino/cache/lru"
-	"github.com/lightninglabs/neutrino/filterdb"
-	"github.com/lightninglabs/neutrino/headerfs"
-	"github.com/lightninglabs/neutrino/pushtx"
+	"github.com/MegaGrindStone/neutrino/banman"
+	"github.com/MegaGrindStone/neutrino/blockntfns"
+	"github.com/MegaGrindStone/neutrino/cache/lru"
+	"github.com/MegaGrindStone/neutrino/filterdb"
+	"github.com/MegaGrindStone/neutrino/headerfs"
+	"github.com/MegaGrindStone/neutrino/pushtx"
 )
 
 // These are exported variables so they can be changed by users.

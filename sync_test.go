@@ -28,9 +28,9 @@ import (
 	"github.com/MegaGrindStone/btcwallet/wallet/txauthor"
 	"github.com/MegaGrindStone/btcwallet/walletdb"
 	_ "github.com/MegaGrindStone/btcwallet/walletdb/bdb"
-	"github.com/lightninglabs/neutrino"
-	"github.com/lightninglabs/neutrino/banman"
-	"github.com/lightninglabs/neutrino/headerfs"
+	"github.com/MegaGrindStone/neutrino"
+	"github.com/MegaGrindStone/neutrino/banman"
+	"github.com/MegaGrindStone/neutrino/headerfs"
 )
 
 var (

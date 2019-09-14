@@ -6,7 +6,7 @@ import (
 	"github.com/MegaGrindStone/btcd/blockchain"
 	"github.com/MegaGrindStone/btcd/chaincfg/chainhash"
 	"github.com/MegaGrindStone/btcd/wire"
-	"github.com/lightninglabs/neutrino/headerfs"
+	"github.com/MegaGrindStone/neutrino/headerfs"
 )
 
 // mockBlockHeaderStore is an implementation of the BlockHeaderStore backed by

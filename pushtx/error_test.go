@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/MegaGrindStone/btcd/wire"
-	"github.com/lightninglabs/neutrino/pushtx"
+	"github.com/MegaGrindStone/neutrino/pushtx"
 )
 
 // TestParseBroadcastErrorCode ensures that we properly construct a

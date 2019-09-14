@@ -7,8 +7,8 @@ import (
 	"github.com/MegaGrindStone/btcd/peer"
 	"github.com/MegaGrindStone/btcd/txscript"
 	"github.com/btcsuite/btclog"
-	"github.com/lightninglabs/neutrino/blockntfns"
-	"github.com/lightninglabs/neutrino/pushtx"
+	"github.com/MegaGrindStone/neutrino/blockntfns"
+	"github.com/MegaGrindStone/neutrino/pushtx"
 )
 
 // log is a logger that is initialized with no output filters.  This

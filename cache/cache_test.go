@@ -8,9 +8,9 @@ import (
 	"github.com/MegaGrindStone/btcd/wire"
 	"github.com/MegaGrindStone/btcutil"
 	"github.com/MegaGrindStone/btcutil/gcs"
-	"github.com/lightninglabs/neutrino/cache"
-	"github.com/lightninglabs/neutrino/cache/lru"
-	"github.com/lightninglabs/neutrino/filterdb"
+	"github.com/MegaGrindStone/neutrino/cache"
+	"github.com/MegaGrindStone/neutrino/cache/lru"
+	"github.com/MegaGrindStone/neutrino/filterdb"
 )
 
 // TestBlockFilterCaches tests that we can put and retrieve elements from all

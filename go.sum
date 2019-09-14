@@ -1,3 +1,8 @@
+github.com/MegaGrindStone/btcd v0.0.0-20190913193658-c94d0bf04502 h1:nD29Bcd5rFN4TOGOxelMjtcCsxzN7CrG5vMMvB5/YDw=
+github.com/MegaGrindStone/btcd v0.0.0-20190913193658-c94d0bf04502/go.mod h1:MH3ZotZEDS5uSJEXYBubIay7MiOoNW9lheV2/0tZp7E=
+github.com/MegaGrindStone/btcutil v0.0.0-20190913045846-ec81bb1cdd76 h1:i6IUdM5rh1ak/G+m6loudmn/x/jzdc/3FtO1GBEieyA=
+github.com/MegaGrindStone/btcutil v0.0.0-20190913045846-ec81bb1cdd76/go.mod h1:JsOCG3IztWMEsiJSaP5S5C0RgEiWsPhndOrt71vh57g=
+github.com/MegaGrindStone/btcwallet v0.0.0-20190914005348-6d88f922dfe6 h1:4VbX+1OFQKDx84n7TeGgxXLsSfnvnAmJbOJSmw+UX58=
 github.com/aead/siphash v1.0.1 h1:FwHfE/T45KPKYuuSAKyyvE+oPWcaQ+CUmFW0bPlM+kg=
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
 github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f h1:bAs4lUbRJpnnkd9VhRV3jjAVU7DJVjMaK+IsvSeZvFo=
@@ -31,6 +36,8 @@ github.com/jrick/logrotate v1.0.0 h1:lQ1bL/n9mBNeIXoTUoYRlK4dHuNJVofX9oWqBtPnSzI
 github.com/jrick/logrotate v1.0.0/go.mod h1:LNinyqDIJnpAur+b8yyulnQw/wDuN1+BYKlTRt3OuAQ=
 github.com/kkdai/bstream v0.0.0-20161212061736-f391b8402d23 h1:FOOIBWrEkLgmlgGfMuZT83xIwfPDxEI2OHu6xUmJMFE=
 github.com/kkdai/bstream v0.0.0-20161212061736-f391b8402d23/go.mod h1:J+Gs4SYgM6CZQHDETBtE9HaSEkGmuNXF86RwHhHUvq4=
+github.com/kkdai/bstream v1.0.0 h1:Se5gHwgp2VT2uHfDrkbbgbgEvV9cimLELwrPJctSjg8=
+github.com/kkdai/bstream v1.0.0/go.mod h1:FDnDOHt5Yx4p3FaHcioFT0QjDOtgUpvjeZqAs+NVZZA=
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=

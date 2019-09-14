@@ -19,10 +19,10 @@ import (
 	"github.com/MegaGrindStone/btcutil"
 	"github.com/MegaGrindStone/btcutil/gcs"
 	"github.com/MegaGrindStone/btcutil/gcs/builder"
-	"github.com/lightninglabs/neutrino/cache"
-	"github.com/lightninglabs/neutrino/cache/lru"
-	"github.com/lightninglabs/neutrino/filterdb"
-	"github.com/lightninglabs/neutrino/headerfs"
+	"github.com/MegaGrindStone/neutrino/cache"
+	"github.com/MegaGrindStone/neutrino/cache/lru"
+	"github.com/MegaGrindStone/neutrino/filterdb"
+	"github.com/MegaGrindStone/neutrino/headerfs"
 )
 
 var (

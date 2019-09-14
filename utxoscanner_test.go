@@ -11,7 +11,7 @@ import (
 	"github.com/MegaGrindStone/btcd/wire"
 	"github.com/MegaGrindStone/btcutil"
 	"github.com/MegaGrindStone/btcutil/gcs"
-	"github.com/lightninglabs/neutrino/headerfs"
+	"github.com/MegaGrindStone/neutrino/headerfs"
 )
 
 type MockChainClient struct {

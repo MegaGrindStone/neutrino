@@ -20,11 +20,11 @@ import (
 	"github.com/MegaGrindStone/btcutil"
 	"github.com/MegaGrindStone/btcutil/gcs"
 	"github.com/MegaGrindStone/btcutil/gcs/builder"
-	"github.com/lightninglabs/neutrino/banman"
-	"github.com/lightninglabs/neutrino/blockntfns"
-	"github.com/lightninglabs/neutrino/chainsync"
-	"github.com/lightninglabs/neutrino/headerfs"
-	"github.com/lightninglabs/neutrino/headerlist"
+	"github.com/MegaGrindStone/neutrino/banman"
+	"github.com/MegaGrindStone/neutrino/blockntfns"
+	"github.com/MegaGrindStone/neutrino/chainsync"
+	"github.com/MegaGrindStone/neutrino/headerfs"
+	"github.com/MegaGrindStone/neutrino/headerlist"
 )
 
 const (

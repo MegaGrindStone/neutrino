@@ -10,7 +10,7 @@ import (
 
 	"github.com/MegaGrindStone/btcwallet/walletdb"
 	_ "github.com/MegaGrindStone/btcwallet/walletdb/bdb"
-	"github.com/lightninglabs/neutrino/banman"
+	"github.com/MegaGrindStone/neutrino/banman"
 )
 
 // createTestBanStore creates a test Store backed by a boltdb instance.

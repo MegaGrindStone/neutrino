@@ -9,7 +9,7 @@ import (
 	"github.com/MegaGrindStone/btcd/chaincfg/chainhash"
 	"github.com/MegaGrindStone/btcd/wire"
 	"github.com/MegaGrindStone/btcwallet/wtxmgr"
-	"github.com/lightninglabs/neutrino/blockntfns"
+	"github.com/MegaGrindStone/neutrino/blockntfns"
 )
 
 var (

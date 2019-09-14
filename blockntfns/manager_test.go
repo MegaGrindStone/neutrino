@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/MegaGrindStone/btcd/wire"
-	"github.com/lightninglabs/neutrino/blockntfns"
+	"github.com/MegaGrindStone/neutrino/blockntfns"
 )
 
 var emptyHeader wire.BlockHeader

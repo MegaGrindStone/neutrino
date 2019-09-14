@@ -14,7 +14,7 @@ import (
 	"github.com/MegaGrindStone/btcutil/gcs"
 	"github.com/MegaGrindStone/btcutil/gcs/builder"
 	"github.com/MegaGrindStone/btcwallet/walletdb"
-	"github.com/lightninglabs/neutrino/headerfs"
+	"github.com/MegaGrindStone/neutrino/headerfs"
 )
 
 func decodeHashNoError(str string) *chainhash.Hash {
